@@ -18,4 +18,4 @@ draft: false
 
 A compass made of unknown materials. Seemingly crafted from glass or obsidian, it does not break or chip regardless of forces applied to it. Its design appears foreign in origin. At the very least, it does not appear to made by any civilization in modern times.
 
-When held by [[dnd-campaign/content/Party/Andre Wahlafell Jon Popoto|Andre]], the compass is warm to the touch and three needles squirm out from the center of the compass, each one pointing to a different direction.
+When held by [[Andre Wahlafell Jon Popoto|Andre]], the compass is warm to the touch and three needles squirm out from the center of the compass, each one pointing to a different direction.
