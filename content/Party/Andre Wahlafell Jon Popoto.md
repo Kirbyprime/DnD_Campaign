@@ -46,3 +46,4 @@ Sometimes he suspects that the ending has already been written. He has no proof 
 ## Possessions
 
 * Death Note (may or may not be real)
+	* Includes the name "Romb-something"

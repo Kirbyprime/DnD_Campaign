@@ -14,14 +14,14 @@ published: 2026-10-10T16:15:51.249Z
 > Owner | Charlie |
 > Affiliation | [[The Party]] |  
 > Sex | Fe...male? |  
-> Race | Unknown |  
-> Age | Unknown |  
+> Race | Orc |  
+> Age | 21 |  
 > Condition | Healthy |  
 > ###### Rules Info  
 > Type |  Stat |  
 > ---|---|  
-> Alignment | Unknown |  
-> Class | Unknown | 
+> Alignment | Neutral Good |  
+> Class | Barbarian | 
 ## Profile  
 ## Relations
 ## Possessions

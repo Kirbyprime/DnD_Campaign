@@ -13,11 +13,15 @@ kanban-plugin: board
 ## Conditions
 
 - [ ] [[Surprised]]
+- [ ] [[Invisible]]
+- [ ] [[Grappled]]
+- [ ] [[Prone]]
 
 
 ## Misc Combat
 
 - [ ] [[Objects]]
+- [ ] [[Throwing Characters]]
 
 
 ## Spellcasting

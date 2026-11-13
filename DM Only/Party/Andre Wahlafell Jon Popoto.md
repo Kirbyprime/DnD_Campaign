@@ -16,5 +16,7 @@ When the whispers began, he recalled a familiar dream. They seemed to promise a 
 
 Sometimes he suspects that the ending has already been written. He has no proof that his memories are real, that the whispers are connected to them, or that any of it means anything at all.
 
+Death Note includes the name Romb something...
+
 ## Character Sheet
 ![[Andre_Wahlafell_Jon_Popoto_updated.pdf]]
