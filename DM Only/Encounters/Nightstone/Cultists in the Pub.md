@@ -31,4 +31,4 @@ Party defeats the foes.
 Party defeated the guards. Used suggestion to get one cultist to do nothing but follow the other, persuaded the other cultist to leave. Cultist dropped the scroll.
 
 ## Image
-![[Hostile Guards in a Ruined Tavern.png]]
+![[cultist-guards.png]]

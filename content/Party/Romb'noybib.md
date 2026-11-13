@@ -7,7 +7,7 @@ published: 2026-10-10T16:15:51.249Z
 ---
 
 > [!infobox]   
-> ![[Gemini_Generated_Image_94hv1o94hv1o94hv.jpg]] 
+> ![[rombnoybib.jpg]] 
 > ###### Basic Information  
 > Type |  Stat |  
 > ---|---|  

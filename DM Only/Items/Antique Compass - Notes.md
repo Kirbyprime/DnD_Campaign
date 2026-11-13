@@ -1,0 +1,1 @@
+Bound to [[dnd-campaign/content/Party/Andre Wahlafell Jon Popoto|Andre Wahlafell Jon Popoto]]. When damaged, the damage is instead transferred to the bound person. The Compass is treated as an object with an AC of 17.

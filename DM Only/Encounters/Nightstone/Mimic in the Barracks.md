@@ -38,6 +38,6 @@ Party defeats the foes and loots the [[Ancient Compass]] from inside the Mimic.
 
 ## Image
 ![[Misty Ruins in the Forest.png]]
-![[Cobwebbed Treasure Chest in a Forgotten Dungeon.png]]
-![[Gnarled Mimic Chest in a Webbed Dungeon.png]]
+![[treasure-chest.png]]
+![[mimic-chest.png]]
 ![[phase_spider.png]]
