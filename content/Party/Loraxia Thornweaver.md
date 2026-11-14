@@ -7,7 +7,7 @@ published: 2026-10-10T16:16:38.316Z
 ---
 
 > [!infobox]   
-> ![[imagePlaceholder.png]] 
+> ![[loraxia.png]] 
 > ###### Basic Information  
 > Type |  Stat |  
 > ---|---|  
